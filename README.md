@@ -11,7 +11,7 @@
 
 <!-- Header with full-width image -->
 <header class="hero">
-  <img src="assets/img/shop-sign.jpeg" alt="A1 Meadow Auto Repairs" class="hero-img">
+  <img src="shop-sign.jpeg" alt="A1 Meadow Auto Repairs" class="hero-img">
   <div class="overlay">
     <div class="container hero-content">
       <h1>A1 Meadow Auto Repairs</h1>
