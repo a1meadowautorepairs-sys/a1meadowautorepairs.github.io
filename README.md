@@ -57,7 +57,7 @@
 <header class="hero">
   <div class="wrap">
     <div class="topbar">
-      <img class="logo-img" src="assets/img/shop-sign.jpeg" alt="A1 Meadow Auto Repairs shop sign logo" />
+      <img class="logo-img" src="shop-sign.jpeg" alt="A1 Meadow Auto Repairs shop sign logo" />
       <div>
         <h1 class="brand">A1 Meadow Auto Repairs</h1>
         <div class="tagline">Trusted Auto Repairs, Modifications & Detailing in Mississauga</div>
